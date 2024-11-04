@@ -1,0 +1,25 @@
+<resources>
+
+    <!--CREDENCIALES APLICATIVO -->
+    <string name="app_name">primeraappmayk</string>
+    <string name="developer">Mayk Suarez</string>
+    <string name="desarrollo">Desarrollado por:</string>
+    <string name="version">version 1.0.0</string>
+
+    <!--LOGIN -->
+    <string name="titulo_login">Ingrese sesion</string>
+    <string name="lbl_usuario">Usuario</string>
+    <string name="txt_usuario">Ingrse Usuario</string>
+    <string name="lbl_password">Contraseña</string>
+    <string name="txt_password">Ingrese Contraseña</string>
+    <string name="btn_ingresar">Ingresar</string>
+    <string name="lbl_crear_cuenta">No tienes cuenta?, Registrate</string>
+
+
+    <!--REGISTRO -->
+
+    <!--ELECCION -->
+
+    <!--MAS DATOS -->
+
+</resources>
